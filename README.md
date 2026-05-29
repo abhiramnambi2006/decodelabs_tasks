@@ -1,6 +1,6 @@
 # 🌐 DecodeLabs Internship — IoT Tasks
 **Intern:** N. Abhiram  
-**Domain:** Internet of Things (IoT) & Embedded Systems  
+**Domain:** Internet of Things (IoT)  
 **Platform:** Wokwi Simulator + MicroPython (ESP32)
 
 ---
@@ -19,7 +19,7 @@ decodelabs-iot-internship/
 │   ├── diagram.json                            # Wokwi circuit diagram
 │   └── wokwi-project.txt                       # Wokwi project link
 │
-├── Task-3_Multi-Sensor-Node-MQTT/
+├── Task-3 And 4_Multi-Sensor-Node-MQTT-Automated-Intelligence/
 │   ├── main.py                                 # ESP32 firmware (WiFi + MQTT cloud)
 │   ├── ssd1306.py                              # OLED display driver
 │   ├── diagram.json                            # Wokwi circuit diagram
