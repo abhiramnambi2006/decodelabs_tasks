@@ -90,7 +90,7 @@ A structured presentation covering the fundamentals of the Internet of Things ec
 
 ---
 
-## 📡 Task 3 — Multi-Sensor Node with MQTT Cloud + Streamlit Dashboard
+## 📡 Task 3 And 4 — Multi-Sensor Node with MQTT Cloud + Streamlit Dashboard + Automated Intelligence
 
 **Platform:** ESP32 + MicroPython (Wokwi Simulator) + Python (PC)  
 **Wokwi Project:** https://wokwi.com/projects/464567050018842625
