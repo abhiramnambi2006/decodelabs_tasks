@@ -9,8 +9,8 @@ import paho.mqtt.client as mqtt
 #  CONFIGURATION
 # ============================================================
 # PASTE YOUR WORKING CREDENTIALS HERE:
-TELEGRAM_BOT_TOKEN = "8888869865:AAERkKTP4I05BZRN55LxyG51T0nNrgjkMuo"
-TELEGRAM_CHAT_ID = "5729106136"
+TELEGRAM_BOT_TOKEN = "Your_Bot_Token"
+TELEGRAM_CHAT_ID = "Your_Chat_ID"
 
 MQTT_BROKER = "broker.hivemq.com"
 MQTT_PORT = 1883
